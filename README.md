@@ -1,4 +1,4 @@
-# Machine Learning Projects: Course
+# **Machine Learning Projects: A course**
 
 ### ***Author: Elizabeth Granda, Bachelor´s Student of Scientific Computing***
 
